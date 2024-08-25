@@ -41,7 +41,7 @@ python -V
 2. Clone the puzzle repository using Git:
 
 ```
-git clone https://github.com/ajcr/100-pandas-puzzles.git
+git clone <git-repo-url>
 ```
 
 3. Install the dependencies (**caution**: if you don't want to modify any Python modules in your active environment, consider using a virtual environment instead):
@@ -57,12 +57,6 @@ jupyter notebook --notebook-dir=100-pandas-puzzles
 ```
 
 You should be able to see the notebooks and launch them in your web browser.
-
-## Contributors
-
-This repository has benefitted from numerous contributors, with those who have sent puzzles and fixes listed in [CONTRIBUTORS](https://github.com/ajcr/100-pandas-puzzles/blob/master/CONTRIBUTORS.md).
-
-Thanks to everyone who has raised an issue too.
 
 ## Other links
 
